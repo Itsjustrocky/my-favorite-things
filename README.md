@@ -25,9 +25,11 @@ To complete this exercise, fulfill the following requirements:
   * div with a class of "section"
     * h1 with id of "response1"
     * button with id of "button1" and text of "My favorite desserts are..."
+
   * div with a class of "section"
     * h1 with id of "response2"
     * button with id of "button2" and text of "My favorite foods are..."
+    
   * div with a class of "section"
     * h1 with id of "response3"
     * button with id of "button3" and text of "My favorite games are..."
